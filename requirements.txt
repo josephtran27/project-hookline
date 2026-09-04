@@ -1,0 +1,9 @@
+fastapi[standard]
+uvicorn
+dnspython
+dkimpy
+google-genai
+httpx
+supabase
+pydantic
+python-multipart
